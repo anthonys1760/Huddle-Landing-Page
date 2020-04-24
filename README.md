@@ -25,7 +25,7 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 ## Steps to execute this Website:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/Simple-Calculator/)
+- [View Live Site](https://anthonys1760.github.io/Huddle-Landing-Page/)
 
 ## Technologies used: 
 - HTML
